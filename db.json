@@ -1,0 +1,30 @@
+{
+  "series": [
+    {
+      "id": 1,
+      "name": "Greys Anatomi",
+      "status": "toWatch",
+      "genre": "Comédia",
+      "comments": "coisa da valéria"
+    },
+    {
+      "name": "River",
+      "status": "watched",
+      "genre": "Drama",
+      "comments": "bem lunático",
+      "id": 2
+    },
+    {
+      "name": "House of Cards",
+      "status": "watching",
+      "genre": "Drama",
+      "comments": "Frank and Clair Underwood",
+      "id": 3
+    }
+  ],
+  "genres": [
+    "Comédia",
+    "Drama",
+    "Ação"
+  ]
+}
